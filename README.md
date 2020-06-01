@@ -1,0 +1,2 @@
+# Image_Classification_Logistic_Regression
+Image Classification with Logistic Regression with PyTorch
